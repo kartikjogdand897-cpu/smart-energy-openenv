@@ -1,0 +1,8 @@
+name: smart-energy-openenv
+
+entry_point: env:SmartEnergyEnv
+
+tasks:
+  - tasks.easy
+  - tasks.medium
+  - tasks.hard
